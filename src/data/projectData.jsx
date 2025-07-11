@@ -23,18 +23,16 @@ const projectData = {
     {
       icon: "bx bx-id-card",
       title: "Personal Portfolio",
-      type: "Frontend",
+      type: "Html,Css",
       features: [
         "Tailwind CSS",
-        "Dark/light mode",
         "Animated tabs",
-        "Project & skill showcase"
       ],
       tech: ["React", "Tailwind"],
       year: 2025,
       status: "Completed",
-      demo: "#home",
-      github: "#home"
+      demo: "https://dkkykun.github.io/rorr/",
+      github: "https://github.com/DKKYKUN"
     },
     {
       icon: "bx bx-bot",
