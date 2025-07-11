@@ -49,8 +49,8 @@ const footerData = {
 
 
     formSubscription: {
-        title: "Sampai jumpa",
-        description: "tetap nantikan perkembangan situs ini yaa",
+        title: "Sampai jumpa 🙂",
+        description: "tetap nantikan perkembangan situs ini yaa🤙",
         placeholder: "Ga usah di isi",
         buttonText: "Woke",
     },
