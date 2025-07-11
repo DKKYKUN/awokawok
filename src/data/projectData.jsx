@@ -28,7 +28,7 @@ const projectData = {
         "Tailwind CSS",
         "Animated tabs",
       ],
-      tech: ["React", "Tailwind"],
+      tech: ["Html", "Css"],
       year: 2025,
       status: "Completed",
       demo: "https://dkkykun.github.io/rorr/",
