@@ -25,7 +25,7 @@ const aboutData = {
             icon: "bx-info-circle"
         },
         approach: {
-            text: `I focus on user-centered design, performance, and accessibility always evolving with modern tech to deliver seamless digital experiences.`,
+            text: `focus on purpose not girls because gf is temporary succeess is permanent 😎`,
             icon: "bx-bulb"
         }
     }
