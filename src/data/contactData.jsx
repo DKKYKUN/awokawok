@@ -31,7 +31,7 @@ const contactData = {
             label: "LinkedIn",
             href: "#",
             icon: "bx bxl-linkedin-square",
-            description: "Asli nya saya tak da LinkedIn",
+            description: "I'm really not have linkedin",
         },
         {
             label: "Instagram",
