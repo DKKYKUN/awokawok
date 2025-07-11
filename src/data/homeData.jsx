@@ -1,7 +1,7 @@
 const homeData = {
   title: "Hi, I’m Dkyy 👋",
   typingTexts: [
-    "Web Developer",
+    "Electrical engineering",
     "Coder Gabut",
     "Mahasingma Pemula",
     "UI/UX Begineer",
