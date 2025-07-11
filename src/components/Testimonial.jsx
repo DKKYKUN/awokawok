@@ -191,7 +191,7 @@ const Testimonials = () => {
                     Feedback 
                     </h2>
                     <p className="text-lg text-gray-800 dark:text-white max-w-2xl mx-auto">
-                        Please fill in your feedback, friend. For the original email, fill in the original, for the position, give a (-) sign.
+                        Please fill in your feedback, friend. For email, fill in as in the example, for position, mark (-).
                     </p>
                 </div>
 
